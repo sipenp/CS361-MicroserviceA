@@ -1,7 +1,7 @@
 # CS361-MicroserviceA
 ## Microservice A for Farad's Severe Weather Alert
 ### Description
-Checks for severe weather alerts for a given city. 
+Checks for severe weather alerts for a given city using Open Weather's API. To use an account will  need to be created and the weather check 3.0 will need to be subscribed to.  It is free to use for 1000 calls per day.  See [www.openweather.org](www.openweather.org) to sign up and for details on plans.  Once you have your API key, create a file 'key.env' in the same directory as severe_weather_alert.py and copy the key into the file as the only information. Do not add any descriptors only the API key itself.
 Inputs: 
 - City name
 Outputs:
