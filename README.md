@@ -13,4 +13,4 @@ Outputs:
   - Weather fetch failed
 ### Communication Contract
 Communications will be handled via RESTful API requests.  The microservice will run as a Flask application with the address of 
-[Link text](http://127.0.0.1:5001)
+[http://127.0.0.1:5001](http://127.0.0.1:5001)
