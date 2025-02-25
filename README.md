@@ -42,3 +42,6 @@ python severe_weather_alert.py
 ### Using the Microservice
 To use the microservice simply construct the URL and perform an HTTP GET operation as appropriate for the programming languate being used.
 
+### UML
+
+![UML Severe Weather Alerts](https://github.com/sipenp/CS361-MicroserviceA/blob/main/UML_severe_weather_alerts.png)
